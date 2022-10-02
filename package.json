@@ -1,0 +1,45 @@
+{
+  "name": "strapi-plugin-fast-content",
+  "version": "1.0.0",
+  "description": "Fast Content plugin provides a fast way to transfer your data to Strapi Collection.",
+  "license": "MIT",
+  "strapi": {
+    "name": "fast-content",
+    "displayName": "Fast Content Builder",
+    "description": "Fast Content Builder plugin provides a fast way to transfer your data to Strapi Collection.",
+    "kind": "plugin"
+  },
+  "dependencies": {
+    "@monaco-editor/react": "^4.4.6",
+    "pluralize": "^8.0.0",
+    "slugify": "^1.6.5"
+  },
+  "author": {
+    "name": "phidndev",
+    "email": "phidnhh@gmail.com",
+    "url": "https://github.com/phidnhh"
+  },
+  "maintainers": [
+    {
+      "name": "phidndev",
+      "email": "phidnhh@gmail.com",
+      "url": "https://github.com/phidnhh"
+    }
+  ],
+  "engines": {
+    "node": ">=14.19.1 <=16.x.x",
+    "npm": ">=6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phidnhh/strapi-plugin-fast-content.git"
+  },
+  "keywords": [
+    "strapi",
+    "plugin",
+    "strapi",
+    "fast",
+    "content",
+    "builder"
+  ]
+}
